@@ -6,9 +6,9 @@ Please note that these projects were done with a technology that we've since ret
 https://gawdiseattle.gitbook.io/wdi/11-projects/past-projects/project2
 
 ## APInspiration
-- Here is a list of free APIs to checkout
-- Here is a collection of APIs for projects
-- Here is an website that lets you search APIs by subject
+  * [Here](https://github.com/public-apis/public-apis) is a list of free APIs to checkout
+  * [Here](https://apilist.fun/) is a collection of APIs for projects
+  * [Here](https://www.programmableweb.com/) is an website that lets you search APIs by subject
 
 ## Project Requirements
 - Two repos in your own personal github, one containing your frontend and one containing your backend.
