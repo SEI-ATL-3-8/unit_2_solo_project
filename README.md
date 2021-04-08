@@ -27,3 +27,26 @@ Your pitch is due Friday 4/9. Make two repos for this project in your own person
 - Use a tool like https://awwapp.com/, https://www.mockflow.com/, or good ol zoom whiteboard to create wireframes for your project. Whatever you use, get a screen cap.
 - Your wireframes should walk the reader through the screen states, and should include short descriptions of each screen. It's a good idea to give your wireframes labels (like 1, 2, 3 etc), and to indicate which screens transitions to which other screens.
 - Move your image files into the project folder and link them in your README. (You might want to put all your wireframe images into a single folder called images or assets. In that case you'll have to specify the filepath to those images including the containing folder.) Pro tip: use VScode's markdown previewer!
+
+
+
+## Project Feedback + Evaluation
+
+* __Project Workflow__: Did you spend an adequate amount of time on the planning process? Did you use source control as expected? Are your commit messages clear? Do you have a readme file?
+
+* __Technical Requirements__: Did you deliver a project that met all the technical requirements? Given what the class has covered so far, did you build something that was reasonably complex?
+
+* __Creativity__: Did you added a personal spin or creative element into your project submission? Did you deliver something of value to the end user (not just a login button and an index page)?
+
+* __Code Quality__: Did you follow code style guidance and best practices covered in class, such as spacing, modularity, and semantic naming? Did you comment your code as your instructors as we have in class?
+
+* __Problem Solving__: Are you able to defend why you implemented your solution in a certain way? Can you demonstrated that you thought through alternative implementations? _(Note that this part of your feedback evaluation will take place during your one-on-one code review with your instructors, after you've completed the project.)_
+
+* __Total__: Your instructors will give you a total score on your project between:
+
+| Score | Expectations | Evaluation Criteria |
+| ----- | ------------ | ------------------ |
+| **3** | _Exceeds expectations_ | **Solid MVP + Stretch Goals**
+| **2** | _Meets expectations_ | **Solid MVP -- meets all technical requirements** 
+| **1** | _Does not meet expectations._ | **No MVP -- missed some technical requirements**
+| **0** | _Incomplete._ | **Not Passing -- missed most or all technical requirments and MVP**
