@@ -1,5 +1,15 @@
 # Unit 2 Solo Projects
 
+## Examples of past projects
+Please note that these projects were done with a technology that we've since retired from the GA curriculum! So while they are a great source of inspiring ideas, check with your pod leader before embarking on an idea that mirrors these too closely.
+
+https://gawdiseattle.gitbook.io/wdi/11-projects/past-projects/project2
+
+## APInspiration
+- Here is a list of free APIs to checkout
+- Here is a collection of APIs for projects
+- Here is an website that lets you search APIs by subject
+
 ## Project Requirements
 - Two repos in your own personal github, one containing your frontend and one containing your backend.
 - A backend express server that persists data to a database
