@@ -18,9 +18,9 @@ Your pitch is due Friday 4/9. Make two repos for this project in your own person
 1. Title of the project (biggest header in the document)
 1. Overview: summarize the goals of your app, and describe the problem your app is built to solve.
 1. Wireframes: explained below.
-1. User stories: a series of statements in the form of "When I {do X}, {Y happens}." These statements should encompass the whole functionality of playing the game.
+1. User stories: a series of statements in the form of "When I {do X}, {Y happens}." These statements should encompass the whole functionality of your app.
 1. Routes inventory: list all the routes you plan to have in your backend. Include the http verb, the path, and a brief summary of what the route does. (To represent this nicely in markdown, you might want to look up how to make a table in a markdown file!)
-1. MVP checklist: A list of all the functionalities that will constitute the bare minimum version of your game. Note that this list should be sized so that you can complete it by ~Monday, leaving Tuesday to tackle stretch goals.
+1. MVP checklist: A list of all the functionalities that will constitute the bare minimum version of your app. Note that this list should be sized so that you can complete it by ~Monday, leaving Tuesday to tackle stretch goals.
 1. Stretch goals: A list of awesome bonus goals you will work on after completing your MVP.
 
 ### Wireframes:
